@@ -1,0 +1,19 @@
+{
+    "valmorph" : "https://edioffsrv001/~mpm/vm.txt",
+      "dependencies": [
+            { 
+                    "name":"libdatacash-mmp-common-java",
+                          "version":"mmp_apm_reviewed",
+                              },
+          { 
+                  "name":"dc-mmp-webservice",
+                        "version":"mmp_apm_reviewed",
+                            },
+              { 
+                      "name":"dc-mmp-processor",
+                            "version":"mmp_apm_reviewed",
+                                  "source":"git@gitlab.win.datacash.com:mmp-apm/dc-mmp-processor",
+                                      }
+      ]
+}
+
