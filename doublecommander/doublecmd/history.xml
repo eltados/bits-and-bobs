@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>z:\git\</Item>
+      <Item>Z:\git\investigation\bits-and-bobs\doublecommander\doublecmd\</Item>
+      <Item>Z:\git\investigation\bits-and-bobs\doublecommander\</Item>
+      <Item>Z:\git\investigation\bits-and-bobs\</Item>
+      <Item>C:\Users\mpm\AppData\Local\atom\</Item>
+      <Item>C:\Users\mpm\AppData\Local\atom\bin\</Item>
+      <Item>C:\Users\mpm\AppData\Local\</Item>
+      <Item>C:\Users\mpm\AppData\</Item>
+      <Item>C:\Users\mpm\AppData\Roaming\</Item>
+      <Item>C:\Users\mpm\AppData\Roaming\Atom\</Item>
+      <Item>C:\Users\mpm\</Item>
+      <Item>C:\Users\</Item>
+      <Item>C:\</Item>
+      <Item>C:\Program Files (x86)\</Item>
+      <Item>C:\Program Files\</Item>
+      <Item>C:\Users\mpm\AppData\Local\Code\</Item>
+      <Item>C:\Users\mpm\AppData\Local\Code\bin\</Item>
+      <Item>C:\Users\mpm\AppData\Roaming\doublecmd\</Item>
+      <Item>Z:\git\investigation\</Item>
+      <Item>C:\vm-share\</Item>
+      <Item>z:\</Item>
+      <Item>C:\Program Files\Double Commander\</Item>
+      <Item>C:\Program Files\eclipse_kepler\</Item>
+      <Item>C:\Program Files\Double Commander\plugins\</Item>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item>*</Item>
+      <Item>Code.exe</Item>
+    </FileMask>
+    <SearchText/>
+    <ReplaceText/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>
